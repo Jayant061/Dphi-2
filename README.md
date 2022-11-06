@@ -1,1 +1,1 @@
-Deployed at {https://dphi-updated.herokuapp.com/}
+Deployed at https://dphi-updated.herokuapp.com/
