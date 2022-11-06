@@ -1,0 +1,18 @@
+.logo{
+    width:100%;
+    height: 60px;
+}
+.logo img{
+    height: 80%;
+    margin-left: 100px;
+    margin-top: 5px;
+
+}
+@media only screen and (max-width:800px){
+    .logo{
+        width: 100vw;
+    }
+    .logo img{
+        margin-left: 50px;
+    }
+}

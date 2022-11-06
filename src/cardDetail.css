@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    padding: 50px 100px;
+    background-color: #003145;
+    color: white;
+}
+.timeinfo{
+    width: 500px;
+    height: 34px;
+    background-color: #FFCE5C;
+    color: black;
+    margin-bottom: 50px;
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+.timeinfo img{
+    height: 20px;
+    margin-top: 7px;
+    padding-right: 10px;
+}
+.timeinfo h4{
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 12px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    padding-top: 12px;
+    padding-right: 100px;
+
+}
+.assignment-name h1{
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding-bottom: 40px;
+    
+}
+.assignment-name p{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding-bottom: 30px;
+    
+}
+.level{
+    width: 150px;
+    background: white;
+    border: none;
+    border-radius: 5px;
+    color: #003145;
+    display: flex;
+    padding: 10px 10px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.level img{
+    padding-right:10px ;
+    scale: 1.2;
+}
+.overview{
+    padding: 20px 100px 0 100px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow:0  6px 12px 0  #DDE6ED;
+    margin-bottom: 50px;
+}
+.overview-title{
+    padding: 0 20px;
+    padding-bottom: 10px;
+    border-bottom: 4px solid #44924C;
+    border-radius: 2px;
+}
+.overview-title h3{
+    padding-top: 10px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.overview .btns button{
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    margin: 0 10px;
+}
+.edit-btn{
+    border: none;
+    background-color: #44924C;
+    color: white;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: center; 
+}
+.delete-btn{
+    border: 1.2px solid #DC1414;
+    background-color: white;
+
+    color: #DC1414;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: center; ;
+   }
+   .overview-text{
+    padding: 0 200px 50px 100px;
+   }
+   .overview-text p{
+    color: #64607D;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: -0.02em;
+    text-align: left;
+
+   }
+  
