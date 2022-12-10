@@ -1,2 +1,2 @@
 # dphi Task
-Deployed at https://dphi-updated.herokuapp.com/
+Deployed at https://amazing-chebakia-472dc4.netlify.app/
